@@ -1,0 +1,4 @@
+Flask
+pynput
+pyperclip
+pywin32

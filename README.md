@@ -1,2 +1,2 @@
-# Dragon_Proctor-admin
-good to goooooo
+# Dragon-Proctor
+This is a team project done for The Great Bangalaru Hackathon
